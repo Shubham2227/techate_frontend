@@ -29,7 +29,7 @@
     "moment-timezone": "^0.5.26",
     "ngx-cookie-service": "^2.2.0",
     "rxjs": "~6.4.0",
-    "simple-crypto-js": "^2.2.0",
+    "simple-crypto-js": "^2.3.0",
     "sweetalert2": "^8.18.3",
     "tslib": "^1.10.0",
     "typescript": "~3.5.3",
